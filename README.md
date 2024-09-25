@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushik0329&label=Profile%20views&color=0e75b6&style=flat" alt="koushik0329" /> </p>
 
-- 🌱 I’m currently learning **GoLang and Spring Boot**
+- 🌱 I’m currently learning **GoLang and React**
 
-- 👯 I’m looking to collaborate on **Spring Boot and Prompt Engineering**
+- 👯 I’m looking to collaborate on **React and Prompt Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/koushik0329](https://github.com/koushik0329)
 
