@@ -1,3 +1,4 @@
+[![MasterHead](https://gurzu.com/img/gurzu/mern-stack-01.webp)]
 <h1 align="center">Hi 👋, I'm Koushik Redddy Kambham</h1>
 <h3 align="center">Full Stack Development | Open to Internships & Full-Time Opportunities | Passionate About Building Scalable Web Applications</h3>
 
