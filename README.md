@@ -30,15 +30,15 @@
 - **Other:** REST APIs, GraphQL, Firebase, Core Animation  
 
 ---
-
+<div align="center">
 <h2>📊 GitHub Stats</h2>
 
 ![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik0329&show_icons=true&theme=swift)
-
+</div>
 ---
 
-<div align="center">
+
 
 _"Code is like humor. When you have to explain it, it’s bad."_ 😄
 
-</div>
+
