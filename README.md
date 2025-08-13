@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Koushik Reddy Kambham
+# 👋 Hi, I'm Koushik Reddy Kambham  
+📱 iOS Developer · 💻 MERN Stack Developer · 🎓 MS in Computer Science  
 
-💻 **iOS Developer** | 📱 Passionate about building sleek, high-performance, and user-friendly mobile apps.  
-I love turning ideas into reality using Swift, SwiftUI, and UIKit, focusing on clean architecture and seamless user experience.
+💻 Passionate about building sleek, high-performance, and user-friendly mobile apps and scalable web applications.  
+I love turning ideas into reality using Swift, SwiftUI, UIKit, React, Node.js, and MongoDB, focusing on clean architecture and seamless user experience.
 
 ---
 
@@ -14,10 +15,10 @@ I love turning ideas into reality using Swift, SwiftUI, and UIKit, focusing on c
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Swift, Objective-C  
-- **Frameworks:** SwiftUI, UIKit, Combine, CoreData  
-- **Tools:** Xcode, Git, TestFlight, CocoaPods, Swift Package Manager  
-- **Other:** REST APIs, Firebase, Core Animation
+**Mobile Development:** Swift, SwiftUI, UIKit, Combine, CoreData  
+**Web Development:** React, Node.js, Express.js, MongoDB, Redux  
+**Tools & Platforms:** Xcode, Git, TestFlight, CocoaPods, Swift Package Manager, Postman  
+**Other:** REST APIs, Firebase, Core Animation
 
 ---
 
