@@ -10,7 +10,7 @@ I love turning ideas into reality using Swift, SwiftUI, UIKit, React, Node.js, a
 
 ---
 
-<div align="center">
+
 
 ## 🔗 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/koushikkambham/) •  
@@ -18,11 +18,11 @@ I love turning ideas into reality using Swift, SwiftUI, UIKit, React, Node.js, a
 [X (Twitter)](https://x.com/MaheshKoushik1) •  
 [LeetCode](https://leetcode.com/u/koushik0329/)
 
-</div>
+
 
 ---
 
-<div align="center">
+
 
 ## 🛠 Skills & Technologies
 **Programming Languages:** Swift, JavaScript, TypeScript, Python, Java  
@@ -31,7 +31,7 @@ I love turning ideas into reality using Swift, SwiftUI, UIKit, React, Node.js, a
 **Tools & Platforms:** Xcode, Git, TestFlight, CocoaPods, Swift Package Manager, Postman  
 **Other:** REST APIs, GraphQL, Firebase, Core Animation
 
-</div>
+
 
 ---
 
